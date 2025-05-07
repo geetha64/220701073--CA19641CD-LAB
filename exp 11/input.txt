@@ -1,0 +1,6 @@
+t1 = a + b
+t2 = a + b
+t3 = t1 + c
+t4 = d + e
+t5 = t4 + f
+a = t3

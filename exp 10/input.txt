@@ -1,0 +1,6 @@
+a = b + c * d
+if a < b goto L1
+t1 = a + b
+goto L2
+L1: t2 = a - b
+L2: end
